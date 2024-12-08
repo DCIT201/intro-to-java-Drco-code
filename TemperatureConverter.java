@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author Derrick Oware
  */
-public class Main {
+public class TemperatureConvertor {
     public static void main(String[] args) {
         // Create a Scanner object for user input
         Scanner scanner = new Scanner(System.in);
